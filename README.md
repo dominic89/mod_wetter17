@@ -13,3 +13,7 @@ In den Modul-Einstellungen muss der Key von wetter.com eingetragen werden.
 ### 2012-02-11
 
 * first release
+
+### 2017-01-10
+
+* Projekt umbenannt von wetter17 zu mod_wetter_com
