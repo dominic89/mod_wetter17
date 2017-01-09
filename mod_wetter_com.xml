@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="module" version="1.7" client="site" method="upgrade">
-	<name>Wetter</name>
+<extension type="module" version="3.0" client="site" method="upgrade">
+	<name>wetter.com</name>
 	<author>Dominic Richter</author>
-	<creationDate>Dez 2011</creationDate>
+	<creationDate>Jan 2017</creationDate>
 	<copyright>Copyright (C) 2005 - 2011 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>admin@joomla.org</authorEmail>
-	<authorUrl>www.joomla.org</authorUrl>
-	<version>1.7.0</version>
+	<authorUrl>www.twitnic.de</authorUrl>
+	<version>3.0.0</version>
 	<description>Wetter.com Modul</description>
 	<files>
-		<filename module="mod_wetter">mod_wetter17.php</filename>
+		<filename module="mod_wetter_com">mod_wetter_com.php</filename>
 		<folder>tmpl</folder>
 		<filename>helper.php</filename>
 		<filename>index.html</filename>
-		<filename>mod_wetter17.xml</filename>
+		<filename>mod_wetter_com.xml</filename>
 	</files>
 	<help key="JHELP_EXTENSIONS_MODULE_MANAGER_STATISTICS" />
 	<config>
